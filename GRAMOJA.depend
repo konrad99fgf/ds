@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1479396447 source:c:\gra moja\gramoja\main.cpp
+	<iostream>
+	<fstream>
+	<Klub.h>
+	<Osoba.h>
+	<Pilkarz.h>
+	<Rozgrywki.h>
+	<Gra.h>
+
+1479398070 source:c:\gra moja\gramoja\src\gra.cpp
+	"Gra.h"
+	<iostream>
+	<fstream>
+
+1479396898 c:\gra moja\gramoja\include\gra.h
+	<vector>
+	<Rozgrywki.h>
+	<fstream>
+
+1479837642 source:c:\gra moja\gramoja\src\klub.cpp
+	"Klub.h"
+	<string>
+	<iostream>
+	<Pilkarz.h>
+
+1479834746 c:\gra moja\gramoja\include\klub.h
+	<string>
+	<Pilkarz.h>
+	<list>
+	<fstream>
+
+1478455771 source:c:\gra moja\gramoja\src\osoba.cpp
+	"Osoba.h"
+
+1479834980 c:\gra moja\gramoja\include\osoba.h
+	<string>
+	<fstream>
+
+1479408395 source:c:\gra moja\gramoja\src\pilkarz.cpp
+	"Pilkarz.h"
+	<fstream>
+	<iostream>
+
+1479407894 c:\gra moja\gramoja\include\pilkarz.h
+	<Osoba.h>
+	<string>
+	<fstream>
+
+1479837830 source:c:\gra moja\gramoja\src\rozgrywki.cpp
+	"Rozgrywki.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1479398070 c:\gra moja\gramoja\include\rozgrywki.h
+	<string>
+	<vector>
+	<Klub.h>
+	<fstream>
+
